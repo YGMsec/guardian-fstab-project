@@ -6,9 +6,9 @@ A low-level system integrity utility written in C designed to safeguard the Linu
 
 ## 📌 Behind the Project: A Learning Journey
 
-*"While reading 'How Linux Works' and learning C, I started thinking about the challenges a sysadmin faces daily. I had an Arch Linux VM dedicated entirely to breaking, fixing, and experimenting. While tampering with the `/etc/fstab` file to understand its mount parameters, I realized just how critical this single file is for the system's survival. That is when the idea for `fguard` was born: to create a 'second check' before the computer shuts down.*
+*While reading 'How Linux Works' and learning C, I started thinking about the challenges a sysadmin faces daily. I had an Arch Linux VM dedicated entirely to breaking, fixing, and experimenting. While tampering with the `/etc/fstab` file to understand its mount parameters, I realized just how critical this single file is for the system's survival. That is when the idea for `fguard` was born: to create a 'second check' before the computer shuts down.*
 
-*This is not a commercial tool. I have been in the cybersecurity and tech sector for only about 4 months. This project is a handmade, craft utility built by someone who is just starting out, who found a cool problem to solve, and enjoyed every single moment spending time with C. I do not claim solo credit for the entire architecture; much of the code was written by documenting myself deeply and collaborating with AI, breaking down every single line and dash to truly understand the mechanics under the hood and learn how to program from scratch. My goal is to build the most solid foundations possible and understand the 'why' behind everything."*
+*This is not a commercial tool. I have been in the cybersecurity and tech sector for only about 4 months. This project is a handmade, craft utility built by someone who is just starting out, who found a cool problem to solve, and enjoyed every single moment spending time with C. I do not claim solo credit for the entire architecture; much of the code was written by documenting myself deeply and collaborating with AI, breaking down every single line and dash to truly understand the mechanics under the hood and learn how to program from scratch. My goal is to build the most solid foundations possible and understand the 'why' behind everything.*
 
 ---
 
